@@ -2,7 +2,6 @@
 
 ### Name: Shaik Eesub
 ### Register Number: 2305002021
-### Reg No: 2305002001
 
 ## AIM
 
